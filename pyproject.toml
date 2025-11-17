@@ -2,7 +2,7 @@
  name = "starforge"
  version = "0.1.0"
  description = "Data-driven strategy coach for growing your GitHub stars."
- authors = [{ name = "Your Name", email = "you@example.com" }]
+ authors = [{ name = "Tinghe Zhang", email = "20236911@stu.neu.edu.cn" }]
  requires-python = ">=3.10"
  readme = "README.md"
  license = { text = "MIT" }
@@ -24,4 +24,5 @@ dependencies = [
 
  [tool.setuptools.packages.find]
  where = ["src"]
+
 
