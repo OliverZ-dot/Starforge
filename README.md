@@ -5,8 +5,8 @@ Starforge is a data-driven strategy coach for indie devs and small teams who wan
 ## Why this matters
 
 - **Practical** – Works with the public REST API. No LLMs or paid services required.
-- **Frontier-aware** – Scans the newest repositories (e.g., created within the last 90 days) to detect hot topics/languages that are gaining stars right now.
-- **Actionable** – Generates personalized playbooks: which repos to double down on, which languages to showcase, and concrete idea prompts you can ship next.
+- **Frontier-aware** – Scans the newest repositories (e.g., created within the last 90 days) to detect hot topics/languages that are gaining stars right now
+- **Actionable** – Generates personalized playbooks: which repos to double down on, which languages to showcase, and concrete idea prompts you can ship next
 
 ## Installation
 
