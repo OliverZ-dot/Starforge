@@ -58,9 +58,9 @@ usage: starforge [-h] --user USER [--limit LIMIT] [--trend-lang TREND_LANG]
 
 ## Roadmap ideas
 
-- Add lightweight time-series persistence to detect deltas across runs.
-- Build a `--post` flag to auto-create a GitHub Discussion or tweet with your action plan.
-- Plug in open-source LLMs (e.g., `llama.cpp`) for richer prompt generation when desired.
+- Add lightweight time-series persistence to detect deltas across runs
+- Build a `--post` flag to auto-create a GitHub Discussion or tweet with your action plan
+- Plug in open-source LLMs (e.g., `llama.cpp`) for richer prompt generation when desired
 
 ## License
 
